@@ -3,6 +3,4 @@
 > [!IMPORTANT]
 > Upload tạm thời - Repo này sẽ bị ẩn sau 17/10/2025
 
-Chứa code google earth engine
-
 ## File chính ở [đây](https://github.com/Cookiesdx/GEE_Homework/blob/main/main.js)
